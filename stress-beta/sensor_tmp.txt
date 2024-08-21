@@ -1,0 +1,27 @@
+Status | (#)Sensor                |      Reading | Low Limit | High Limit |
+------ | ---------                |      ------- | --------- | ---------- |
+    OK | (4) CPU Temp             |     58C/136F |    0C/32F |  100C/212F |
+    OK | (71) PCH Temp            |      35C/95F |    5C/41F |   95C/203F |
+    OK | (138) System Temp        |      27C/81F |   -5C/23F |   85C/185F |
+    OK | (205) Peripheral Temp    |      32C/90F |   -5C/23F |   85C/185F |
+    OK | (272) VcpuVRM Temp       |     39C/102F |    0C/32F |  100C/212F |
+       | (339) DIMMA1 Temp        |          N/A |       N/A |        N/A |
+    OK | (406) DIMMA2 Temp        |      31C/88F |    0C/32F |   85C/185F |
+       | (473) DIMMB1 Temp        |          N/A |       N/A |        N/A |
+       | (540) DIMMB2 Temp        |          N/A |       N/A |        N/A |
+    OK | (607) FAN1               |     3700 RPM |   500 RPM |  25400 RPM |
+    OK | (674) FAN2               |     2900 RPM |   500 RPM |  25400 RPM |
+    OK | (741) FAN3               |     2900 RPM |   500 RPM |  25400 RPM |
+       | (808) FAN4               |          N/A |       N/A |        N/A |
+    OK | (875) FANA               |     2500 RPM |   500 RPM |  25400 RPM |
+    OK | (942) 12V                |      12.25 V |   10.27 V |    13.28 V |
+    OK | (1009) 5VCC              |       5.05 V |    4.29 V |     5.54 V |
+    OK | (1076) 3.3VCC            |       3.36 V |    2.82 V |     3.65 V |
+    OK | (1143) VBAT              |       2.97 V |    2.49 V |     3.58 V |
+    OK | (1210) VCPU              |       1.08 V |       N/A |     1.51 V |
+    OK | (1277) VDIMMAB           |       1.21 V |    0.97 V |     1.42 V |
+    OK | (1344) 5VSB              |       5.05 V |    4.37 V |     5.54 V |
+    OK | (1411) 3.3VSB            |       3.35 V |    2.89 V |     3.65 V |
+    OK | (1478) VBMC 1.2V         |       1.21 V |    1.04 V |     1.37 V |
+    OK | (1545) VPCH 1.0V         |       1.00 V |    0.85 V |     1.16 V |
+    OK | (1612) Chassis Intru     |                                    OK |
