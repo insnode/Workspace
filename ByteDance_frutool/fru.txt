@@ -1,0 +1,17 @@
+MN      = "ByteDance"
+PN      = "ByteDance2022"
+SN      = "ByteDance20220330SZ00116"
+VS      = "3.5"
+##BIOS版本在刷完BIOS重启后 写FRU时自动获取 可以写成SYVS=$AUTO CHVS=$AUTO
+SYMF    = $MN             
+SYPD    = $PN
+SYVS    = $AUTO                  
+SYSN    = $SN
+BBMF    = $MN                    
+BBPD    = "SC621DI-16F"               
+#BBVS    = "1.02"
+#BBSN    = "VM201S008612"          
+CHMF    = $MN
+CHVS    = $AUTO
+CHSN    = $SN
+CHTN    = $SN
